@@ -32,7 +32,6 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>3.2.3.RELEASE</version>
 		</dependency>
-
 	</dependencies>
 	<build>
 		<finalName>SampleWebApplication</finalName>
